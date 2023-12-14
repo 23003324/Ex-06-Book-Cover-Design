@@ -47,13 +47,10 @@ In the body section ,create a division with the text with respective to the head
 "Third Edition"
 
 "Ben Frain"
-
 ## STEP 4:
-
 Close the HTML structure.
 
 # CODE:
-
 ```
 <!DOCTYPE html>
 <html lang="en">
