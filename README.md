@@ -180,7 +180,19 @@ img {
 
 ```
 # OUTPUT:
-![Alt text](<Screenshot 2023-12-14 104811.png>)
+
+
+
+![Alt text](coverpg.png)
+
+
+
+
+
+
+
+
+
 
 # RESULT:
 Thus the book-cover-design has been successfully created using HTML and CSS.
