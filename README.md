@@ -70,7 +70,7 @@ Close the HTML structure.
              margin-left: auto;
              margin-right: auto ;
              padding: 20px;
-             background-image: url('light.png');
+             background-image: url('lamp.png');
              background-position: center;
              background-color: black;
              background-repeat: no-repeat;
